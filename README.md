@@ -1,4 +1,4 @@
-# Store_sales_Analysis_and_Profit_Prediction
+# Superstore-Analytics: Store sales Analysis and Profit Prediction
 
 
 ## Introduction:
