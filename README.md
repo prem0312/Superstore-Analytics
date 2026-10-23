@@ -11,7 +11,6 @@ This project offers a user-friendly and efficient solution for analyzing sales d
 
 Whether you are a business owner, a sales manager, or a data analyst, the Store Data Analysis and Profit Prediction project provides a valuable tool for understanding the dynamics of sales data and making informed decisions to maximize profitability.
 
-<img src="https://github.com/Ginga1402/Store_sales_Analysis_and_Profit_Prediction/assets/130181481/0d0c8c54-2445-448f-846e-52b8f049058a" alt="image" width="600" >
 
 ## Objective
 
